@@ -30,8 +30,9 @@ This Flask-based API allows users to upload PDF files, automatically triggers ba
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/krishna-runwal/pdf-processing-api.git
+git clone https://github.com/krishna-runwal/my_project.git
 cd pdf-processing-api
 
 
 pip install flask opencv-python pytesseract
+

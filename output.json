@@ -1,0 +1,263 @@
+[
+  {
+    "symbol": "LIGHTING",
+    "bounding_box": [
+      340,
+      1901,
+      409,
+      1929
+    ],
+    "text_nearby": [
+      "LIGH",
+      "NTS",
+      "HIGH",
+      "DUE"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "SCHEDULE",
+    "bounding_box": [
+      1272,
+      1796,
+      1323,
+      1866
+    ],
+    "text_nearby": [
+      "JULE",
+      "WE",
+      "JUUE",
+      "JULIE",
+      "UE"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "SCHEDULE",
+    "bounding_box": [
+      1218,
+      1796,
+      1262,
+      1866
+    ],
+    "text_nearby": [
+      "DULE",
+      "OE",
+      "DULIE",
+      "EY",
+      "DUDE"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "SCHEDULE",
+    "bounding_box": [
+      1150,
+      1796,
+      1205,
+      1867
+    ],
+    "text_nearby": [
+      "JEDULE",
+      "EDULE",
+      "ES",
+      "EE",
+      "EDUDE",
+      "SOULE"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "SCHEDULE",
+    "bounding_box": [
+      1082,
+      1796,
+      1139,
+      1866
+    ],
+    "text_nearby": [
+      "HHEDULI",
+      "EE",
+      "HEDULE",
+      "HEDUL",
+      "EDU",
+      "IHEDULE"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "SCHEDULE",
+    "bounding_box": [
+      1019,
+      1796,
+      1071,
+      1866
+    ],
+    "text_nearby": [
+      "CHEDU",
+      "ET",
+      "CE",
+      "CED",
+      "DHE"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "GR",
+    "bounding_box": [
+      949,
+      1796,
+      1004,
+      1866
+    ],
+    "text_nearby": [
+      "GR",
+      "SCHED",
+      "ES",
+      "SCI",
+      "SK",
+      "ICHED"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "LIGHTING",
+    "bounding_box": [
+      650,
+      1796,
+      705,
+      1866
+    ],
+    "text_nearby": [
+      "HTING",
+      "TING",
+      "MAR",
+      "ES",
+      "NN"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "LIGHTING",
+    "bounding_box": [
+      561,
+      1796,
+      616,
+      1866
+    ],
+    "text_nearby": [
+      "GHTING",
+      "YP",
+      "GHTINC",
+      "CI",
+      "GARIN",
+      "CA"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "LED",
+    "bounding_box": [
+      496,
+      1796,
+      551,
+      1866
+    ],
+    "text_nearby": [
+      "LED",
+      "LIGHTIN",
+      "LEDS",
+      "LIGHT",
+      "ENN",
+      "GAT"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "LED",
+    "bounding_box": [
+      345,
+      1796,
+      388,
+      1866
+    ],
+    "text_nearby": [
+      "LED",
+      "CT",
+      "FED",
+      "IST",
+      "UST",
+      "LIGE"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "SCHEDULE",
+    "bounding_box": [
+      879,
+      1795,
+      940,
+      1867
+    ],
+    "text_nearby": [
+      "SCHE",
+      "FT20",
+      "SCHEI",
+      "SOT",
+      "SS08E",
+      "SONE"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "NG",
+    "bounding_box": [
+      816,
+      1795,
+      870,
+      1867
+    ],
+    "text_nearby": [
+      "NG",
+      "SCH",
+      "IT20",
+      "ET",
+      "RS",
+      "FT"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "LIGHTING",
+    "bounding_box": [
+      716,
+      1795,
+      780,
+      1867
+    ],
+    "text_nearby": [
+      "TING",
+      "SC",
+      "5C",
+      "RE",
+      "RN"
+    ],
+    "source_sheet": "E2.4"
+  },
+  {
+    "symbol": "LED",
+    "bounding_box": [
+      421,
+      1795,
+      485,
+      1867
+    ],
+    "text_nearby": [
+      "LED",
+      "LIGHT",
+      "OIR",
+      "PAIN"
+    ],
+    "source_sheet": "E2.4"
+  }
+]

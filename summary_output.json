@@ -1,0 +1,24 @@
+```json
+{
+  "pdf_name": "E2.4.pdf",
+  "status": "complete",
+  "result": {
+    "A1": {
+      "count": 12,
+      "description": "2x4 LED Emergency Fixture"
+    },
+    "A1E": {
+      "count": 5,
+      "description": "Exit/Emergency Combo Unit"
+    },
+    "W": {
+      "count": 9,
+      "description": "Wall-Mounted Emergency LED"
+    },
+    "EXIT": {
+      "count": 1,
+      "description": "Exit Sign"
+    }
+  }
+}
+```

@@ -1,0 +1,364 @@
+
+{
+  "rulebook": [
+    {
+      "type": "note",
+      "text": "SYMBOLS SHOWN IN THIS LEGEND ARE TYPICAL ALL SYMBOLS MAY NOT APPLY TO\nTHIS PROJECT.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "MOUNTING HEIGHT, UON, IS TO BOTTOM OF THE EQUIPMENT.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "TQMINIMIZE SOUND TRANSMISSION, DO NOT INSTALL \"BACK-TO-BACK’ OUTLET",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "MECHANICAL EQUIPMENT INDICATED ON SHEETS WITH E. EG, EL AND EP PREFIXES\nARE SHOWN IN APPROXIMATE LOCATIONS. FOR EXACT LOCATIONS OF THE\nMECHANICAL EQUIPMENT AND PIPING, SEE MECHANICAL DRAWINGS. PROVIDE\nDISCONNECT SWITCHES, BY NATIONAL ELECTRICAL CODE (NEC) EVEN WHEN\nNOT INDICATED ON ELECTRICAL DRAWINGS.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "COORDINATE LOCATIONS AND MOUNTING HEIGHTS OF LIGHTING FIXTURES IN\nMECHANICAL AND ELECTRICAL ROOMS WITH FINAL LOCATIONS OF PIPES, DUCTS\nAND OTHER EQUIPMENT FOR THE BEST ARRANGEMENT. FIXTURES SHALL BE\nEASILY ACCESSIBLE FOR RELAMPING. PENDANT LENGTHS INDICATED ARE\nESTIMATES AND THE ACTUAL PENDANT LENGTH REQUIRED SHALL BE\nDETERMINED/PROVIDED BASED ON FIELD COORDINATION WITH INSTALLED\nEQUPMENT.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "CONDUCTOR AND CONDUIT SIZES ARE BASED ON COPPER CONDUCTORS WITH TW\nINSULATION IN EMT CONDUIT, UON.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "ALLWIRING SHALL BE CONCEALED IN FINISHED AREAS, UON ON ELECTRICAL\nSHEETS.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "PANEL DIRECTORIES POSTED WITHIN THE PANELS SHALL BE REVISED AS NEEDED\n‘TO REFLECT FINAL AS-SUILT INSTALLATION CONDITIONS.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "SEAL PENETRATIONS THROUGH ROOFS, CEILINGS, FLOORS, WALLS AND RE\nWALLS TO MAINTAIN THE INTEGRITY OF AIR BARRIER, FIRE AND ACOUSTIC RATINGS\nOF THE ROOF, CEILINGS, WALLS AND FLOORS.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "COMPONENTS WHICH CONSTITUTE AN ELECTRICAL SYSTEM SHALL BE FULLY\nCOMPATIBLE WITH ONE ANOTHER AND SHALL BE APPROVED BY THE VARIOUS\nMANUFACTURERS FOR USE WITH ALL THE OTHER COMPONENTS WITHIN THE\nSYSTEM (ONE EXAMPLE OF AN ELECTRICAL SYSTEM IS THE BUILDING LIGHTING\nSYSTEM COMPRISED OF FIXTURES, LAMPS, SWITCHES, BALLASTS, OCCUPANCY\nSENSORS AND DIMMING EQUIPMENT).",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "PROVIDE NAMEPLATES ON EXTERIOR OF ALL ELECTRICAL PANELS AND\nENCLOSURES AS FOLLOWS: DEVICE ID, DEVICE RATING, POWER SOURCE. FOR\nDISCONNECT SWITCHES AND MOTOR STARTERS THE DEVICE ID SHALL BE THE\nUNIQUE IDENTIFIER OF THE EQUIPMENT BEING FED BY THE SWITCHISTARTER.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "PROVIDE SEPARATE NEUTRALS FOR GACH CIRCUIT UTILIZING A NEUTRAL\nCONDUCTOR (D0 NOT COMBINE NEUTRALS. DO NOT UTILIZE MULTIWIRE BRANCH\nGRCUTTS).",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "THE INTERRUPTING CURRENT (AL.C.) RATING OF THE PANELBOARD AND\nELECTRICAL EQUIPMENT SHALL BE INCREASED TO THE NEXT HIGHER.\nCOMMERCIALLY AVAILABLE RATING WHERE THERE IS NOT A COMMERCIAL RATING\n‘THAT IS EQUAL TO THE EQUIPMENTS INDICATED ALC. RATING.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "RACEWAYS CROSSING STRUCTURAL EXPANSION JOINTS OR SEISMIC JOINTS\nSHALL BE PROVIDED WITH SUITABLE EXPANSION FITTINGS OR OTHER MEANS TO\nCOMPENSATE FOR BUILDING EXPANSION AND CONTRACTION, SEISMIC MOVEMENT,\nAND TO PROVIDE FOR CONTINUITY OF GROUNDING.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "RECEPTACLES THAT ARE INDICATED TO HAVE GFCI PROTECTION SHALL BE WIRED\nSUCH THAT LOSS OF POWER ON ONE RECEPTACLE DOES NOT AFFECT THE\nDOWNSTREAM RECEPTACLES, UON.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "CAST OUTLET AND JUNCTION BOXES SHALL BE PROVIDED WITH THREADED\nFITTINGS AND COVERS THAT FIT FLUSH WITH THE EDGES OF OUTLET BOXES.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "OUTLETS, SWITCH. JUNCTION, ETC. BOXES MOUNTED INSIDE THE WALL WITH ONLY\nFACE PLATE OR DEVICE SURFACE DESIGNED FOR EXPOSURE IS OUTSIDE WALL\nSURFACE.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "PROHIBIT SURFACE MOUNTED CONDUIT, RACEWAY, OR WIRES ON EXTERIOR OR\nINTERIOR SURFACES OF WALLS, FLOORS, ROOFS AND CEILINGS. ROOM\nEXCEPTIONS: MECHANICAL ELECTRICAL AND TELECOMMUNICATIONS ROOM.\nSURFACE EXCEPTION: EXPOSED METAL DECK CEILINGS.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "WHEN CONDUIT IS RAN UNDER PANDECK, CONTRACTOR SHALL PROVIDE\nSTRUCTURED CABLE SUPPORTS WITH 4 INCHES OR MORE OF SEPARATION OR\nRIGID STEEL CONDUIT TO AVOID PENETRATIONS FROM DECK SCREWS OR OTHER\nPENETRATIONS.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "RECEPTACLES THAT ARE CONNECTED TO UPS'GENERATORS SHALL BE PROVIDED\nWITH AN ORANGE DEVICE COVER PLATE TO BE READILY IDENTFIED.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "UON, ALL 20 AMP BRANCH CIRCUITS WILL COMPRISE (1) 314” CONDUIT, (1,2. OR 3 AR)\n#12 AWG UNGROUNDED CONDUCTORS, (1 AR) #12 GROUNDED CONDUCTOR, AND\n(1) #12 AWG EGC.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "UON, ALL 30 AMP BRANCH CIRCUITS WILL COMPRISE (1) 34\" CONDUIT, (1.2. OR 3 AR}\nSIDAING UNGROUNDES CONDUCTORS: (1 An) #10 GROUNDED CONDUCTOR BND ©\n(1) #10 AWG EGC.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "FOR ANY 20 AMP BRANCH CIRCUIT RUN THAT IS LONGER THAN 100 FEET OR ANY 30\nAMP BRANCH CIRCUIT RUN THAT IS LONGER THAN 150 FEET, INCREASE THE\nCONDUCTOR SIZES AT LEAST ONE AWG SIZE TO REDUCE VOLTAGE DROP.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "CONTRACTOR IS AUTHORIZED TO COMBINE MULTIPLE CIRCUITS IN COMMON\nRACEWAY AS DESIRED, PROVIDED THAT CONDUCTOR AMPACITIES DO NOT DROP\nBELOW THE OVERCURRENT PROTECTION DEVICE SETTINGS, AFTER\nCORRECTIONS AND ADJUSTMENT FACTORS ARE APPLIED PER NEC 310.15.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "note",
+      "text": "SHOP DRAWINGS SHALL BE APPROVED BY COR BEFORE THE START OF ANY\nCONSTRUCTION.",
+      "source_sheet": "E-001"
+    },
+    {
+      "type": "table_row",
+      "symbol": "A1",
+      "lamp": "LED",
+      "wattage": "38",
+      "voltage": null,
+      "lumens": "4800",
+      "temp": "3500 K",
+      "cri": null,
+      "mount": "RECESSED",
+      "description": "2' X 4\" RECESSED LED LUMINAIRE",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "A1E",
+      "lamp": "LED",
+      "wattage": null,
+      "voltage": null,
+      "lumens": "4800",
+      "temp": "3500 K",
+      "cri": "90",
+      "mount": "RECESSED",
+      "description": "SAME AS ABOVE WITH EMERGENCY DRIVER",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "A2",
+      "lamp": "LED",
+      "wattage": "23",
+      "voltage": "120",
+      "lumens": "3000",
+      "temp": "3500 K",
+      "cri": "90",
+      "mount": "RECESSED",
+      "description": "2' X 4' RECESSED LED LUMINAIRE",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "A2E",
+      "lamp": "LED",
+      "wattage": "23",
+      "voltage": null,
+      "lumens": "3000",
+      "temp": "3500 K",
+      "cri": null,
+      "mount": "RECESSED",
+      "description": "SAME AS ABOVE WITH EMERGENCY DRIVER",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "P1",
+      "lamp": "LED",
+      "wattage": "100",
+      "voltage": "120",
+      "lumens": "14000",
+      "temp": "4000 K",
+      "cri": null,
+      "mount": "SUSPENDED",
+      "description": "16\" SUSPENDED EXPLOSION PROOF ROUND\nLIGHT",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "C1",
+      "lamp": "LED",
+      "wattage": "9",
+      "voltage": "120",
+      "lumens": "750",
+      "temp": "3500 K",
+      "cri": "90",
+      "mount": "RECESSED",
+      "description": "6\" RECESSED DOWNLIGHT",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "C1E",
+      "lamp": "LED",
+      "wattage": "9",
+      "voltage": "120",
+      "lumens": "750",
+      "temp": "3500 K",
+      "cri": "90",
+      "mount": "RECESSED",
+      "description": "SAME AS ABOVE WITH EMERGENCY DRIVER",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "C2",
+      "lamp": "LED",
+      "wattage": null,
+      "voltage": "120",
+      "lumens": null,
+      "temp": "3500 K",
+      "cri": null,
+      "mount": "RECESSED",
+      "description": "6\" RECESSED DOWNLIGHT",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "C2E",
+      "lamp": "LED",
+      "wattage": null,
+      "voltage": null,
+      "lumens": null,
+      "temp": "3500 K",
+      "cri": null,
+      "mount": "RECESSED",
+      "description": "SAME AS ABOVE WITH EMERGENCY DRIVER",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "F1",
+      "lamp": "LED",
+      "wattage": null,
+      "voltage": null,
+      "lumens": "9000",
+      "temp": "3500 K",
+      "cri": null,
+      "mount": "SUSPENDED",
+      "description": "4' SUSPENDED LED LUMINAIRE WITH BUILT IN\nOCCUPANCY AND DAYLIGHT SENSOR",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "FE",
+      "lamp": "LED",
+      "wattage": "65",
+      "voltage": "120",
+      "lumens": "9000",
+      "temp": "3500 K",
+      "cri": "90",
+      "mount": "SUSPENDED",
+      "description": "SAME AS ABOVE WITH EMERGENCY DRIVER",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "K1",
+      "lamp": "LED",
+      "wattage": "18",
+      "voltage": "120",
+      "lumens": "1550",
+      "temp": "3500 K",
+      "cri": null,
+      "mount": "WALL",
+      "description": "24\" WALL VANITY LUMINAIRE",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "Mo",
+      "lamp": "LED",
+      "wattage": "315",
+      "voltage": null,
+      "lumens": null,
+      "temp": "3000 K",
+      "cri": null,
+      "mount": "WALL",
+      "description": "HIGH LUMEN FLOOD LIGHT",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "NO",
+      "lamp": "LED",
+      "wattage": "3400",
+      "voltage": "208",
+      "lumens": "4000",
+      "temp": "3000 K",
+      "cri": null,
+      "mount": "POLE",
+      "description": "AREA/SITE",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "Pro",
+      "lamp": "LED",
+      "wattage": "462",
+      "voltage": "208",
+      "lumens": "51415",
+      "temp": "3500 K",
+      "cri": "80",
+      "mount": "POLE",
+      "description": "AREA/SITE",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "P20",
+      "lamp": "LED",
+      "wattage": "135",
+      "voltage": null,
+      "lumens": "17785",
+      "temp": "3500 K",
+      "cri": null,
+      "mount": "POLE",
+      "description": "AREA/SITE",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "X",
+      "lamp": "LED",
+      "wattage": "10",
+      "voltage": "120",
+      "lumens": null,
+      "temp": "3000 K",
+      "cri": null,
+      "mount": "WALL",
+      "description": "WALLPACK WITH BUILT IN PHOTOCELL",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    },
+    {
+      "type": "table_row",
+      "symbol": "x",
+      "lamp": "LED",
+      "wattage": null,
+      "voltage": "120",
+      "lumens": null,
+      "temp": null,
+      "cri": "90",
+      "mount": "WALL",
+      "description": "EXIT SIGN",
+      "source_sheet": "LIGHTING FIXTURE SCHEDULE - DLA TUCSON"
+    }
+  ]
+}

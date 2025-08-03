@@ -1,8 +1,14 @@
 import google.generativeai as genai
+import os
 
 def get_final_output(filename):
         # Step 1: Setup
-        GOOGLE_API_KEY = "AIzaSyAkFgvDKHHP2bkd639tWQzTgmkK-Lm1qPc"
+        # Step 1: Setup
+        GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
+
+        if not GOOGLE_API_KEY:
+              raise ValueError("GOOGLE_API_KEY is not set in environment variables")
+
         genai.configure(api_key=GOOGLE_API_KEY)
 
         # Step 2: Load cleaned context
@@ -14,7 +20,9 @@ def get_final_output(filename):
         You are a lighting schedule analysis expert. You will be given text extracted from a lighting layout PDF drawing (including symbols, fixture names, voltage, lumens, etc.).
 
         Your job is to analyze the data and return a summary in this exact JSON format:
-
+        In this given text the below information you has been given you have to retrieve it appropiately and return the response in as per the given below example.
+        Retrieve full data and analyze it properly
+        Example given 
         {{
         "pdf_name": f"{filename}",
         "status": "complete",
@@ -39,7 +47,7 @@ def get_final_output(filename):
         """
 
         # Step 4: Run Gemini
-        model = genai.GenerativeModel("gemini-1.5-flash")  # or "gemini-pro" if needed
+        model = genai.GenerativeModel("gemini-2.5-flash")  # or "gemini-pro" if needed
         response = model.generate_content(prompt)
 
         # Step 5: Save result
